@@ -1,5 +1,5 @@
-# JavaScript Arrays
-
+Delete
+dele
 ## Objectives
 
 - Explain what an array is and why we use it
